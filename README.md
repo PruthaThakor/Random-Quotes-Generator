@@ -94,4 +94,4 @@ Developed with ❤️ by Samarthags
 
 ---
 
-https://samarthags.in
+https://samarthaags.in
