@@ -95,3 +95,5 @@ Developed with ❤️ by Samarthags
 ---
 
 https://samarthaags.in
+
+This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
